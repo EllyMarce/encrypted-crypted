@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criptografia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    <body>
+        <div class="decode">
+            <img src="Frame 6.png" class="logo">
+            <textarea class="yourtext" onclick="cleanText()" id="yourtext" rows="4" maxlength="250">Digite seu texto</textarea>
+            <div class="buttons">
+                <button class="button-criptografar" onclick="clickCriptografar()">Criptografar</button>
+                <button class="button-descriptografar" onclick="clickDescriptografar()">Descriptografar</button>
+            </div>
+            <div class="warning">
+                <h2 class="message-warning" >Apenas letras minúsculas e sem acento.</h2>
+                <div class="image-warning">
+                    <img src="bi_exclamation-circle-fill.png" >
+                </div>
+            </div>
+            <div class="field-white">
+                <button class="button-copy" onclick="clickCopy()">Copiar</button>
+                <div class="field-message"> 
+                    <div class="image-empty">
+                        <img src="High quality products 1 1.png" alt="girl-image" id="girl-image"> 
+                    </div>
+                    </div class="message-empty">
+                        <h3> Nenhuma mensagem encontrada</h3>
+                        <p class="p-empty"> Digite um texto que você precise criptografar ou descriptografar</p>
+                        <textarea class="message" id="message" rows="4" maxlength="250" readonly></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

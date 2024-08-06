@@ -3,6 +3,16 @@
 
 **Criptografando e Descriptografando.**
 
+Nesta funcionalidade foram usadas linguagens como JavaScript, CSS E HTML. 
+Durante o curso foi possível aprender novas funcionalidaes, além das dificuldades enfrentadas com um resultado positivo. 
+
+Infelizmente durante o desenvolvimento do código não me atentei as informaçõoes presentes no trello disponibilizado pela equipe alura o que resultou em uma dificuldade no desenvolvimento, ficando desatenta a critérios de aceitação e a necessidade de certas informações, entretanto foi possível realizar uma criptografia mais complexa resultando em um aprendizado a mais além de uma grande pesquisa em uma API disponibilizada para criptografia de textos, sendo ela a API WEB CRYPTO. 
+
+Em uma próxima oportunidade estarei utilizando a mesma para criptografar informações. 
+
+
+**DETALHES FUNCIONAL DO FRONT-END:**
+
 Esse projeto tem como objetivo criar um sistema que realiza a criptpografia e descriptografia de textos conforme proposta pelo curso realizado na Alura em parceria com a Oracle.
 O front do projeto seguiu a proposta do curso entretanto foram realizadas alterações de cores.
 
@@ -36,4 +46,6 @@ Segue exemplos de criptografia e descriptografia nas próximas imagens.
 Quando é clicado no "digite seu texto" o mesmo desaparece, além de quando for realizada a criptografia e descriptografia a imagem e as informações presente no quadro branco são deletadas para que o resultado do código seja colocado em seu lugar.
 
 
+
+Ass: Gabrielly Marcello.
 
